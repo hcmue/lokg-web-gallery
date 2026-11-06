@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102640">
+  <meta name="description" content="Thư viện mẫu giao diện Web dùng cho học phần Thiết kế Web, tìm kiếm theo từ khóa và đồ thị tri thức LOKG-IR.">
+  <title>LOKG-IR | Thư viện giao diện Web - HCMUE</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script defer src="config.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Bỏ qua đến nội dung</a>
+  <header class="site-header">
+    <div class="container topbar">
+      <a class="brand" href="./" aria-label="LOKG-IR — trang chủ">
+        <span class="brand-symbol" aria-hidden="true">L<span class="brand-dot">.</span></span>
+        <span class="brand-names"><strong>LOKG<span class="name-dash">—</span>IR</strong><small>HCMUE · WEB LEARNING GALLERY</small></span>
+      </a>
+      <nav class="nav-links" aria-label="Điều hướng chính">
+        <a href="#thu-vien">Thư viện</a>
+        <a href="#gioi-thieu">Giới thiệu</a>
+        <a href="privacy.html">Dữ liệu sử dụng</a>
+        <a id="adminLink" class="nav-admin" href="#" target="_blank" rel="noopener noreferrer">Giáo viên <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero-section">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="eyebrow-dot"></span> GIẢI PHÁP HỖ TRỢ HỌC PHẦN THIẾT KẾ WEB</div>
+          <h1>Tra cứu học liệu<br><span>giao diện Web</span><br>theo ngữ nghĩa.</h1>
+          <p>Khám phá mẫu giao diện do giảng viên biên mục. Mô tả ý tưởng bằng từ khóa, tìm kết quả qua API LOKG-IR và mở trực tiếp trên GitHub Pages.</p>
+          <div class="hero-actions"><a class="primary-hero" href="#thu-vien">Khám phá thư viện <span aria-hidden="true">↗</span></a><span class="hero-note">Không yêu cầu đăng nhập sinh viên</span></div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="preview-window window-one"><div class="mini-window-head"><span class="traffic">● ● ●</span><span>web / interface</span></div><img src="previews/WEB-ECO-001.webp" alt=""></div>
+          <div class="preview-window window-two"><div class="mini-window-head"><span class="traffic">● ● ●</span><span>education / ui</span></div><img src="previews/WEB-EDU-002.webp" alt=""></div>
+          <div class="floating-tag tag-first"># product grid</div>
+          <div class="floating-tag tag-second"># hero section</div>
+          <div class="ornament ornament-one"></div>
+          <div class="ornament ornament-two"></div>
+        </div>
+      </div>
+      <div class="container stats-overlap">
+        <div class="stat"><div class="stat-value" id="resourcesCount">72</div><div class="stat-label">Giao diện mẫu</div></div>
+        <div class="stat"><div class="stat-value" id="visitsCount">—</div><div class="stat-label">Lượt mở trang</div></div>
+        <div class="stat"><div class="stat-value" id="searchCount">—</div><div class="stat-label">Lượt tìm kiếm</div></div>
+        <div class="stats-status"><span class="service-dot" id="apiDot"></span><div><b id="connectionStatus">Đang kiểm tra API</b><small id="connectionDetail">Máy chủ Render cung cấp kết quả tìm kiếm</small></div></div>
+      </div>
+    </section>
+
+    <section class="library-section container" id="thu-vien">
+      <div class="section-header">
+        <div><p class="overline">TRUY CẬP HỌC LIỆU</p><h2>Tìm mẫu giao diện phù hợp</h2><p class="subheading">Bạn có thể tìm theo loại website, thành phần giao diện hoặc mô tả bố cục.</p></div>
+        <div class="small-helper">GitHub Pages · FastAPI · LOKG-IR</div>
+      </div>
+      <div class="search-card">
+        <form id="searchForm" autocomplete="off" role="search">
+          <label class="field-label" for="query">Nội dung tìm kiếm</label>
+          <div class="search-field">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <input id="query" name="query" maxlength="300" placeholder="Ví dụ: trang bán hàng có navbar, sidebar và lưới sản phẩm" aria-label="Nhập mô tả giao diện cần tìm">
+            <button class="search-submit" type="submit">Tìm kiếm <span aria-hidden="true">→</span></button>
+          </div>
+          <div class="search-footer">
+            <label class="search-mode-label" for="mode">Phương pháp truy hồi
+              <select id="mode"><option value="lokg">LOKG-IR · Đồ thị tri thức</option><option value="bm25">BM25 · Từ khóa</option><option value="vector">TF-IDF · Vector văn bản</option></select>
+            </label>
+            <span class="privacy-inline">Không nhập thông tin cá nhân vào nội dung tìm kiếm.</span>
+          </div>
+        </form>
+      </div>
+      <div class="suggestions"><span>Thử ngay</span><button type="button" data-query="thương mại điện tử navbar sản phẩm">Cửa hàng trực tuyến</button><button type="button" data-query="giáo dục khóa học bài học">Khóa học</button><button type="button" data-query="dashboard sidebar thống kê">Dashboard</button><button type="button" data-query="landing page hero cta">Landing page</button></div>
+      <div id="notice" class="notice" role="status" hidden><span id="noticeText"></span><button type="button" id="retryApi" class="retry-api" hidden>Kết nối lại API ↻</button></div>
+      <div class="results-title"><div><p class="overline">DANH MỤC GIAO DIỆN</p><h2 id="resultsHeading">Khám phá các mẫu Web</h2></div><span class="results-count" id="resultsStatus" aria-live="polite">Đang tải...</span></div>
+      <div class="result-grid" id="results" aria-live="polite"></div>
+      <div id="emptyState" class="empty-state" hidden><div class="empty-icon">⌕</div><h3>Chưa tìm thấy giao diện phù hợp</h3><p>Hãy thử mô tả ngắn hơn hoặc chọn một nhóm từ khóa gợi ý.</p></div>
+      <div class="load-more-wrap"><button id="loadMore" class="load-more" type="button" hidden>Xem thêm giao diện <span aria-hidden="true">↓</span></button></div>
+    </section>
+
+    <section class="about-section" id="gioi-thieu">
+      <div class="container about-grid">
+        <div><p class="overline">VỀ GIẢI PHÁP</p><h2>Từ tri thức nghiên cứu<br>đến học liệu thực hành.</h2><p>Kho học liệu được giáo viên tuyển chọn và mô tả bằng từ khóa. Trang học liệu lưu trên GitHub Pages; dịch vụ FastAPI sử dụng metadata YAML cùng cơ chế truy hồi để trả về các liên kết phù hợp.</p></div>
+        <div class="about-points"><div class="about-point"><span>01</span><div><b>Giáo viên xây dựng học liệu</b><p>Quản lý đường dẫn và từ khóa trên trang quản trị riêng.</p></div></div><div class="about-point"><span>02</span><div><b>Sinh viên tra cứu công khai</b><p>Tìm kiếm theo nhu cầu học tập, xem kết quả và mở giao diện để phân tích.</p></div></div><div class="about-point"><span>03</span><div><b>Thống kê sử dụng</b><p>Ghi nhận lượt mở trang và tìm kiếm để hỗ trợ đánh giá việc khai thác học liệu.</p></div></div></div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container footer-inner"><div><strong>LOKG-IR · Web Gallery</strong><span>Ứng dụng hỗ trợ học phần Thiết kế Web · HCMUE</span></div><div><a href="privacy.html">Chính sách dữ liệu</a><a id="apiDocsLink" href="#" target="_blank" rel="noopener noreferrer">Tài liệu API ↗</a></div></div><div class="container footer-note">Dữ liệu mẫu dùng cho học tập. Thông tin tìm kiếm dựa trên từ khóa/metadata do giáo viên cung cấp; không tự phân tích giao diện HTML hoặc ảnh.</div></footer>
+</body>
+</html>

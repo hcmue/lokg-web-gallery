@@ -1,0 +1,40 @@
+services:
+  - type: web
+    name: lokg-ir-web-links
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: CATALOG_BACKEND
+        value: github
+      - key: GITHUB_REPOSITORY
+        value: hcmue/lokg-web-gallery
+      - key: PUBLIC_FRONTEND_ORIGIN
+        value: https://hcmue.github.io
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_BRANCH
+        value: main
+      - key: GITHUB_CATALOG_PATH
+        value: data/catalog.yaml
+      - key: ALLOWED_PAGE_HOSTS
+        value: hcmue.github.io
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true
+      # Safe first deploy: enable analytics in Render after adding persistent PostgreSQL.
+      - key: ANALYTICS_ENABLED
+        value: 'false'
+      - key: ANALYTICS_SECRET
+        generateValue: true
+      - key: ANALYTICS_STORE_QUERIES
+        value: 'true'
+      - key: ANALYTICS_RETENTION_DAYS
+        value: '90'
+

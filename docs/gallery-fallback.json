@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "WEB-ECO-001",
+    "title": "Aurelia Atelier",
+    "description": "Aurelia Atelier: New season, soft essentials. Modern pieces for everyday living. Trang thương mại điện tử, bố cục split_hero; các thành phần: navbar, hero, cta, grid, cards, product, search.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-001.html",
+    "local_preview": "previews/WEB-ECO-001.webp"
+  },
+  {
+    "id": "WEB-ECO-002",
+    "title": "Mori Living",
+    "description": "Mori Living: Objects for slower days. Furniture that feels like home. Trang thương mại điện tử, bố cục promo_split; các thành phần: navbar, hero, cta, search, cards, grid, product.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "cards",
+      "grid",
+      "product"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-002.html",
+    "local_preview": "previews/WEB-ECO-002.webp"
+  },
+  {
+    "id": "WEB-ECO-003",
+    "title": "Volt Supply",
+    "description": "Volt Supply: Better tech. Less noise.. Gear built for makers and everyday explorers. Trang thương mại điện tử, bố cục sidebar_left; các thành phần: navbar, sidebar, filter, grid, cards, product, search, cta.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "filter",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-003.html",
+    "local_preview": "previews/WEB-ECO-003.webp"
+  },
+  {
+    "id": "WEB-ECO-004",
+    "title": "Citrus Market",
+    "description": "Citrus Market: Freshness delivered daily. From local growers to your table. Trang thương mại điện tử, bố cục split_hero; các thành phần: navbar, hero, cta, grid, cards, product, search.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-004.html",
+    "local_preview": "previews/WEB-ECO-004.webp"
+  },
+  {
+    "id": "WEB-ECO-005",
+    "title": "Stride Club",
+    "description": "Stride Club: Move your own way. Footwear for every city adventure. Trang thương mại điện tử, bố cục promo_split; các thành phần: navbar, hero, cta, search, cards, grid, product.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "cards",
+      "grid",
+      "product"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-005.html",
+    "local_preview": "previews/WEB-ECO-005.webp"
+  },
+  {
+    "id": "WEB-ECO-006",
+    "title": "Sunday Beauty",
+    "description": "Sunday Beauty: A little ritual, every day. Thoughtfully made skincare essentials. Trang thương mại điện tử, bố cục sidebar_left; các thành phần: navbar, sidebar, filter, grid, cards, product, search, cta.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "filter",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-006.html",
+    "local_preview": "previews/WEB-ECO-006.webp"
+  },
+  {
+    "id": "WEB-ECO-007",
+    "title": "Paper & Pine",
+    "description": "Paper & Pine: Tools for bright ideas. Stationery for your next big thought. Trang thương mại điện tử, bố cục split_hero; các thành phần: navbar, hero, cta, grid, cards, product, search.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-007.html",
+    "local_preview": "previews/WEB-ECO-007.webp"
+  },
+  {
+    "id": "WEB-ECO-008",
+    "title": "Coast Coffee",
+    "description": "Coast Coffee: Good mornings begin here. Small-batch roasted coffee for all routines. Trang thương mại điện tử, bố cục promo_split; các thành phần: navbar, hero, cta, search, cards, grid, product.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "cards",
+      "grid",
+      "product"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-008.html",
+    "local_preview": "previews/WEB-ECO-008.webp"
+  },
+  {
+    "id": "WEB-ECO-009",
+    "title": "Mellow Pets",
+    "description": "Mellow Pets: More joy, every paw. Thoughtful goods for your best companion. Trang thương mại điện tử, bố cục sidebar_left; các thành phần: navbar, sidebar, filter, grid, cards, product, search, cta.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "filter",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-009.html",
+    "local_preview": "previews/WEB-ECO-009.webp"
+  },
+  {
+    "id": "WEB-ECO-010",
+    "title": "Casa Cook",
+    "description": "Casa Cook: Gather around good food. Kitchen essentials made for real life. Trang thương mại điện tử, bố cục split_hero; các thành phần: navbar, hero, cta, grid, cards, product, search.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-010.html",
+    "local_preview": "previews/WEB-ECO-010.webp"
+  },
+  {
+    "id": "WEB-ECO-011",
+    "title": "Orbit Audio",
+    "description": "Orbit Audio: Hear more of your world. Immersive personal sound, refined. Trang thương mại điện tử, bố cục promo_split; các thành phần: navbar, hero, cta, search, cards, grid, product.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "cards",
+      "grid",
+      "product"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-011.html",
+    "local_preview": "previews/WEB-ECO-011.webp"
+  },
+  {
+    "id": "WEB-ECO-012",
+    "title": "Pure Motion",
+    "description": "Pure Motion: Made to keep going. Performance apparel for movement. Trang thương mại điện tử, bố cục sidebar_left; các thành phần: navbar, sidebar, filter, grid, cards, product, search, cta.",
+    "category": "ecommerce",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "filter",
+      "grid",
+      "cards",
+      "product",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-012.html",
+    "local_preview": "previews/WEB-ECO-012.webp"
+  },
+  {
+    "id": "WEB-EDU-001",
+    "title": "Nova Academy",
+    "description": "Nova Academy: Learn what comes next. Your pathway to practical technology. Trang giáo dục, bố cục split_hero; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-001.html",
+    "local_preview": "previews/WEB-EDU-001.webp"
+  },
+  {
+    "id": "WEB-EDU-002",
+    "title": "Little Sparks",
+    "description": "Little Sparks: Curious minds grow here. Creative learning for young explorers. Trang giáo dục, bố cục centered_courses; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-002.html",
+    "local_preview": "previews/WEB-EDU-002.webp"
+  },
+  {
+    "id": "WEB-EDU-003",
+    "title": "Speak Easy",
+    "description": "Speak Easy: Language for real life. Become confident one conversation at a time. Trang giáo dục, bố cục sidebar_left; các thành phần: navbar, sidebar, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-003.html",
+    "local_preview": "previews/WEB-EDU-003.webp"
+  },
+  {
+    "id": "WEB-EDU-004",
+    "title": "Design Campus",
+    "description": "Design Campus: Build beautiful things. From first sketch to your portfolio. Trang giáo dục, bố cục split_hero; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-004.html",
+    "local_preview": "previews/WEB-EDU-004.webp"
+  },
+  {
+    "id": "WEB-EDU-005",
+    "title": "Quantum Study",
+    "description": "Quantum Study: Make science click. Experiments, stories and visual explanations. Trang giáo dục, bố cục centered_courses; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-005.html",
+    "local_preview": "previews/WEB-EDU-005.webp"
+  },
+  {
+    "id": "WEB-EDU-006",
+    "title": "Code Path",
+    "description": "Code Path: Learn by building. Hands-on coding challenges for every level. Trang giáo dục, bố cục sidebar_left; các thành phần: navbar, sidebar, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-006.html",
+    "local_preview": "previews/WEB-EDU-006.webp"
+  },
+  {
+    "id": "WEB-EDU-007",
+    "title": "Open Lecture",
+    "description": "Open Lecture: Knowledge without borders. Courses led by passionate educators. Trang giáo dục, bố cục split_hero; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-007.html",
+    "local_preview": "previews/WEB-EDU-007.webp"
+  },
+  {
+    "id": "WEB-EDU-008",
+    "title": "Math Garden",
+    "description": "Math Garden: Grow mathematical confidence. Visual lessons that make sense. Trang giáo dục, bố cục centered_courses; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-008.html",
+    "local_preview": "previews/WEB-EDU-008.webp"
+  },
+  {
+    "id": "WEB-EDU-009",
+    "title": "Skills Studio",
+    "description": "Skills Studio: Career-ready, at your pace. Practical skills from real-world projects. Trang giáo dục, bố cục sidebar_left; các thành phần: navbar, sidebar, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-009.html",
+    "local_preview": "previews/WEB-EDU-009.webp"
+  },
+  {
+    "id": "WEB-EDU-010",
+    "title": "Lab Notes",
+    "description": "Lab Notes: Explore the research world. Small experiments with big ideas. Trang giáo dục, bố cục split_hero; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-010.html",
+    "local_preview": "previews/WEB-EDU-010.webp"
+  },
+  {
+    "id": "WEB-EDU-011",
+    "title": "Canvas School",
+    "description": "Canvas School: Every lesson is a new possibility. Learning together, creating every day. Trang giáo dục, bố cục centered_courses; các thành phần: navbar, hero, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "hero",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-011.html",
+    "local_preview": "previews/WEB-EDU-011.webp"
+  },
+  {
+    "id": "WEB-EDU-012",
+    "title": "Future Class",
+    "description": "Future Class: Knowledge that connects. Technology-powered learning for everyone. Trang giáo dục, bố cục sidebar_left; các thành phần: navbar, sidebar, course, cards, grid, cta, search.",
+    "category": "education",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "course",
+      "cards",
+      "grid",
+      "cta",
+      "search"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-012.html",
+    "local_preview": "previews/WEB-EDU-012.webp"
+  },
+  {
+    "id": "WEB-BUS-001",
+    "title": "Northstar Analytics",
+    "description": "Northstar Analytics: Decisions, made clearer. Insights that guide your next big move. Trang doanh nghiệp, bố cục split_hero; các thành phần: navbar, hero, cards, statistics, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "statistics",
+      "cta",
+      "search",
+      "platform"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-001.html",
+    "local_preview": "previews/WEB-BUS-001.webp"
+  },
+  {
+    "id": "WEB-BUS-002",
+    "title": "Brightside Studio",
+    "description": "Brightside Studio: Ideas that travel further. Independent branding for ambitious companies. Trang doanh nghiệp, bố cục promo_split; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "strategy",
+      "identity"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-002.html",
+    "local_preview": "previews/WEB-BUS-002.webp"
+  },
+  {
+    "id": "WEB-BUS-003",
+    "title": "Parcel One",
+    "description": "Parcel One: Shipping made simple. Modern logistics for growing businesses. Trang doanh nghiệp, bố cục feature_banner; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "tracking",
+      "fulfillment"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-003.html",
+    "local_preview": "previews/WEB-BUS-003.webp"
+  },
+  {
+    "id": "WEB-BUS-004",
+    "title": "Evergreen Energy",
+    "description": "Evergreen Energy: Build a better tomorrow. Cleaner systems for stronger communities. Trang doanh nghiệp, bố cục split_hero; các thành phần: navbar, hero, cards, statistics, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "statistics",
+      "cta",
+      "search",
+      "solar"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-004.html",
+    "local_preview": "previews/WEB-BUS-004.webp"
+  },
+  {
+    "id": "WEB-BUS-005",
+    "title": "Ledger Flow",
+    "description": "Ledger Flow: Finance without friction. Modern tools for smarter money operations. Trang doanh nghiệp, bố cục promo_split; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "payments",
+      "reports"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-005.html",
+    "local_preview": "previews/WEB-BUS-005.webp"
+  },
+  {
+    "id": "WEB-BUS-006",
+    "title": "Civic Works",
+    "description": "Civic Works: Places with purpose. Architecture and spaces for the people within. Trang doanh nghiệp, bố cục feature_banner; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "projects",
+      "approach"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-006.html",
+    "local_preview": "previews/WEB-BUS-006.webp"
+  },
+  {
+    "id": "WEB-BUS-007",
+    "title": "Cloud Nine",
+    "description": "Cloud Nine: Your workspace, connected. A calmer way to work with your whole team. Trang doanh nghiệp, bố cục split_hero; các thành phần: navbar, hero, cards, statistics, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "statistics",
+      "cta",
+      "search",
+      "workspace"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-007.html",
+    "local_preview": "previews/WEB-BUS-007.webp"
+  },
+  {
+    "id": "WEB-BUS-008",
+    "title": "Wellpoint Care",
+    "description": "Wellpoint Care: Care designed around you. Accessible wellness for people and teams. Trang doanh nghiệp, bố cục promo_split; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "services",
+      "specialists"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-008.html",
+    "local_preview": "previews/WEB-BUS-008.webp"
+  },
+  {
+    "id": "WEB-BUS-009",
+    "title": "Blue Harbor",
+    "description": "Blue Harbor: Build trust into every step. Security advisory for evolving organizations. Trang doanh nghiệp, bố cục feature_banner; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "audit",
+      "training"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-009.html",
+    "local_preview": "previews/WEB-BUS-009.webp"
+  },
+  {
+    "id": "WEB-BUS-010",
+    "title": "Latitude Travel",
+    "description": "Latitude Travel: Go beyond expected. Thoughtful journeys with local expertise. Trang doanh nghiệp, bố cục split_hero; các thành phần: navbar, hero, cards, statistics, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "statistics",
+      "cta",
+      "search",
+      "destinations"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-010.html",
+    "local_preview": "previews/WEB-BUS-010.webp"
+  },
+  {
+    "id": "WEB-BUS-011",
+    "title": "Summit Partners",
+    "description": "Summit Partners: Move forward with confidence. Strategy, operations and lasting impact. Trang doanh nghiệp, bố cục promo_split; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "advisory",
+      "industries"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-011.html",
+    "local_preview": "previews/WEB-BUS-011.webp"
+  },
+  {
+    "id": "WEB-BUS-012",
+    "title": "CoLab Spaces",
+    "description": "CoLab Spaces: Work better, together. Flexible spaces for ambitious teams. Trang doanh nghiệp, bố cục feature_banner; các thành phần: navbar, hero, cards, cta, search.",
+    "category": "business",
+    "tags": [
+      "navbar",
+      "hero",
+      "cards",
+      "cta",
+      "search",
+      "locations",
+      "membership"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-012.html",
+    "local_preview": "previews/WEB-BUS-012.webp"
+  },
+  {
+    "id": "WEB-NEW-001",
+    "title": "Signal Daily",
+    "description": "Signal Daily: Fresh perspectives on technology. Stories behind the next digital shift. Trang tin tức / blog, bố cục editorial_feature; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "technology",
+      "ai"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-001.html",
+    "local_preview": "previews/WEB-NEW-001.webp"
+  },
+  {
+    "id": "WEB-NEW-002",
+    "title": "The Art Ledger",
+    "description": "The Art Ledger: A world of creative ideas. Culture, art and people worth knowing. Trang tin tức / blog, bố cục editorial_columns; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "art",
+      "culture"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-002.html",
+    "local_preview": "previews/WEB-NEW-002.webp"
+  },
+  {
+    "id": "WEB-NEW-003",
+    "title": "Modern Ledger",
+    "description": "Modern Ledger: Business in perspective. Clear reporting on money and markets. Trang tin tức / blog, bố cục headline_sidebar; các thành phần: navbar, article, cards, grid, search, sidebar.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "sidebar",
+      "markets"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-003.html",
+    "local_preview": "previews/WEB-NEW-003.webp"
+  },
+  {
+    "id": "WEB-NEW-004",
+    "title": "Field Notes",
+    "description": "Field Notes: Stories from the outdoors. Exploration, nature and new horizons. Trang tin tức / blog, bố cục editorial_feature; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "nature",
+      "travel"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-004.html",
+    "local_preview": "previews/WEB-NEW-004.webp"
+  },
+  {
+    "id": "WEB-NEW-005",
+    "title": "City Beat",
+    "description": "City Beat: Your city, explained. Neighborhood voices and everyday stories. Trang tin tức / blog, bố cục editorial_columns; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "local",
+      "food"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-005.html",
+    "local_preview": "previews/WEB-NEW-005.webp"
+  },
+  {
+    "id": "WEB-NEW-006",
+    "title": "Beyond Science",
+    "description": "Beyond Science: Ideas that change how we see. Research and discoveries made accessible. Trang tin tức / blog, bố cục headline_sidebar; các thành phần: navbar, article, cards, grid, search, sidebar.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "sidebar",
+      "space"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-006.html",
+    "local_preview": "previews/WEB-NEW-006.webp"
+  },
+  {
+    "id": "WEB-NEW-007",
+    "title": "Habitat Journal",
+    "description": "Habitat Journal: Spaces that shape us. Architecture, interiors and contemporary design. Trang tin tức / blog, bố cục editorial_feature; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "homes",
+      "design"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-007.html",
+    "local_preview": "previews/WEB-NEW-007.webp"
+  },
+  {
+    "id": "WEB-NEW-008",
+    "title": "The Weekend Table",
+    "description": "The Weekend Table: Food and the good life. Recipes, places and conversations. Trang tin tức / blog, bố cục editorial_columns; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "recipes",
+      "restaurants"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-008.html",
+    "local_preview": "previews/WEB-NEW-008.webp"
+  },
+  {
+    "id": "WEB-NEW-009",
+    "title": "Campus Post",
+    "description": "Campus Post: Learn, question, discover. Ideas and updates from the world of learning. Trang tin tức / blog, bố cục headline_sidebar; các thành phần: navbar, article, cards, grid, search, sidebar.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "sidebar",
+      "education"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-009.html",
+    "local_preview": "previews/WEB-NEW-009.webp"
+  },
+  {
+    "id": "WEB-NEW-010",
+    "title": "The Green Line",
+    "description": "The Green Line: Planet, people and progress. Thoughtful environmental reporting. Trang tin tức / blog, bố cục editorial_feature; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "climate",
+      "energy"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-010.html",
+    "local_preview": "previews/WEB-NEW-010.webp"
+  },
+  {
+    "id": "WEB-NEW-011",
+    "title": "Sportline Weekly",
+    "description": "Sportline Weekly: The game beyond the score. Athletes, moments and the culture of sport. Trang tin tức / blog, bố cục editorial_columns; các thành phần: navbar, article, cards, grid, search.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "football",
+      "running"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-011.html",
+    "local_preview": "previews/WEB-NEW-011.webp"
+  },
+  {
+    "id": "WEB-NEW-012",
+    "title": "Travel Compass",
+    "description": "Travel Compass: Explore more, travel better. Guides and stories for curious travelers. Trang tin tức / blog, bố cục headline_sidebar; các thành phần: navbar, article, cards, grid, search, sidebar.",
+    "category": "news",
+    "tags": [
+      "navbar",
+      "article",
+      "cards",
+      "grid",
+      "search",
+      "sidebar",
+      "places"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-012.html",
+    "local_preview": "previews/WEB-NEW-012.webp"
+  },
+  {
+    "id": "WEB-LAN-001",
+    "title": "Flowly",
+    "description": "Flowly: Find your rhythm. One workspace for all your best ideas. Trang landing page, bố cục split_hero; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "features",
+      "how it works"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-001.html",
+    "local_preview": "previews/WEB-LAN-001.webp"
+  },
+  {
+    "id": "WEB-LAN-002",
+    "title": "Moment Calendar",
+    "description": "Moment Calendar: Make room for what matters. A more mindful way to plan your time. Trang landing page, bố cục centered_product_preview; các thành phần: navbar, hero, cta, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "calendar",
+      "reminders",
+      "team"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-002.html",
+    "local_preview": "previews/WEB-LAN-002.webp"
+  },
+  {
+    "id": "WEB-LAN-003",
+    "title": "Nudge Habits",
+    "description": "Nudge Habits: Tiny steps, lasting change. Build better habits with a little encouragement. Trang landing page, bố cục image_left_hero_right; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "habits",
+      "progress"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-003.html",
+    "local_preview": "previews/WEB-LAN-003.webp"
+  },
+  {
+    "id": "WEB-LAN-004",
+    "title": "Wanderly",
+    "description": "Wanderly: The world is calling. Plan unforgettable journeys without the effort. Trang landing page, bố cục split_hero; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "explore",
+      "trips"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-004.html",
+    "local_preview": "previews/WEB-LAN-004.webp"
+  },
+  {
+    "id": "WEB-LAN-005",
+    "title": "Sketchkit",
+    "description": "Sketchkit: Create at the speed of thought. Design tools that get out of your way. Trang landing page, bố cục centered_product_preview; các thành phần: navbar, hero, cta, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "editor",
+      "templates",
+      "collaboration"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-005.html",
+    "local_preview": "previews/WEB-LAN-005.webp"
+  },
+  {
+    "id": "WEB-LAN-006",
+    "title": "Green Meter",
+    "description": "Green Meter: Small actions, big impact. Understand your footprint and make progress. Trang landing page, bố cục image_left_hero_right; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "tracker",
+      "insights"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-006.html",
+    "local_preview": "previews/WEB-LAN-006.webp"
+  },
+  {
+    "id": "WEB-LAN-007",
+    "title": "Soundwave",
+    "description": "Soundwave: Every mood has a soundtrack. Discover fresh music for every moment. Trang landing page, bố cục split_hero; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "explore",
+      "playlists"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-007.html",
+    "local_preview": "previews/WEB-LAN-007.webp"
+  },
+  {
+    "id": "WEB-LAN-008",
+    "title": "Mindful Daily",
+    "description": "Mindful Daily: A little more room to breathe. Feel grounded with science-backed practices. Trang landing page, bố cục centered_product_preview; các thành phần: navbar, hero, cta, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "sessions",
+      "journal",
+      "sleep"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-008.html",
+    "local_preview": "previews/WEB-LAN-008.webp"
+  },
+  {
+    "id": "WEB-LAN-009",
+    "title": "Droplet Notes",
+    "description": "Droplet Notes: Collect what inspires you. A beautiful home for all your notes. Trang landing page, bố cục image_left_hero_right; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "notes",
+      "sync"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-009.html",
+    "local_preview": "previews/WEB-LAN-009.webp"
+  },
+  {
+    "id": "WEB-LAN-010",
+    "title": "Swift Send",
+    "description": "Swift Send: Everything delivered, simply. Reliable delivery for daily needs. Trang landing page, bố cục split_hero; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "how it works",
+      "stores"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-010.html",
+    "local_preview": "previews/WEB-LAN-010.webp"
+  },
+  {
+    "id": "WEB-LAN-011",
+    "title": "Pixel Form",
+    "description": "Pixel Form: Forms people enjoy completing. Smarter forms that turn questions into insights. Trang landing page, bố cục centered_product_preview; các thành phần: navbar, hero, cta, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "search",
+      "forms",
+      "logic",
+      "analytics"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-011.html",
+    "local_preview": "previews/WEB-LAN-011.webp"
+  },
+  {
+    "id": "WEB-LAN-012",
+    "title": "Orbit Tasks",
+    "description": "Orbit Tasks: Your work, perfectly in motion. Plan projects with a clearer view. Trang landing page, bố cục image_left_hero_right; các thành phần: navbar, hero, cta, cards, search.",
+    "category": "landing",
+    "tags": [
+      "navbar",
+      "hero",
+      "cta",
+      "cards",
+      "search",
+      "boards",
+      "timeline"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-012.html",
+    "local_preview": "previews/WEB-LAN-012.webp"
+  },
+  {
+    "id": "WEB-DAS-001",
+    "title": "Atlas Control",
+    "description": "Atlas Control: Your work, at a glance. Track progress across all active projects. Trang biểu mẫu / dashboard, bố cục sidebar_dashboard; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "overview"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-001.html",
+    "local_preview": "previews/WEB-DAS-001.webp"
+  },
+  {
+    "id": "WEB-DAS-002",
+    "title": "Bloom Account",
+    "description": "Bloom Account: Welcome back, creator. Manage your learning journey. Trang biểu mẫu / dashboard, bố cục split_login; các thành phần: navbar, form, login, cta.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "form",
+      "login",
+      "cta",
+      "overview",
+      "courses",
+      "calendar"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-002.html",
+    "local_preview": "previews/WEB-DAS-002.webp"
+  },
+  {
+    "id": "WEB-DAS-003",
+    "title": "Pulse Metrics",
+    "description": "Pulse Metrics: Every number tells a story. Measure what matters most. Trang biểu mẫu / dashboard, bố cục sidebar_analytics; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "overview"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-003.html",
+    "local_preview": "previews/WEB-DAS-003.webp"
+  },
+  {
+    "id": "WEB-DAS-004",
+    "title": "Cloud Access",
+    "description": "Cloud Access: Secure sign in. A simpler way to access your workspace. Trang biểu mẫu / dashboard, bố cục sidebar_dashboard; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "sign in"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-004.html",
+    "local_preview": "previews/WEB-DAS-004.webp"
+  },
+  {
+    "id": "WEB-DAS-005",
+    "title": "Mori CRM",
+    "description": "Mori CRM: Relationships made visible. Your customer relationships, in one place. Trang biểu mẫu / dashboard, bố cục split_login; các thành phần: navbar, form, login, cta.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "form",
+      "login",
+      "cta",
+      "overview",
+      "contacts",
+      "pipeline"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-005.html",
+    "local_preview": "previews/WEB-DAS-005.webp"
+  },
+  {
+    "id": "WEB-DAS-006",
+    "title": "Design Portal",
+    "description": "Design Portal: Join the creative community. Start your design journey. Trang biểu mẫu / dashboard, bố cục sidebar_analytics; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "sign up"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-006.html",
+    "local_preview": "previews/WEB-DAS-006.webp"
+  },
+  {
+    "id": "WEB-DAS-007",
+    "title": "Citrus Admin",
+    "description": "Citrus Admin: Manage daily operations. Get more done from one dashboard. Trang biểu mẫu / dashboard, bố cục sidebar_dashboard; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "overview"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-007.html",
+    "local_preview": "previews/WEB-DAS-007.webp"
+  },
+  {
+    "id": "WEB-DAS-008",
+    "title": "Studio Connect",
+    "description": "Studio Connect: Make great work together. Access your creative projects. Trang biểu mẫu / dashboard, bố cục split_login; các thành phần: navbar, form, login, cta.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "form",
+      "login",
+      "cta",
+      "sign in",
+      "projects",
+      "teams"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-008.html",
+    "local_preview": "previews/WEB-DAS-008.webp"
+  },
+  {
+    "id": "WEB-DAS-009",
+    "title": "Finlight",
+    "description": "Finlight: Your personal overview. Build a clearer financial future. Trang biểu mẫu / dashboard, bố cục sidebar_analytics; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "overview"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-009.html",
+    "local_preview": "previews/WEB-DAS-009.webp"
+  },
+  {
+    "id": "WEB-DAS-010",
+    "title": "Sprint Board",
+    "description": "Sprint Board: Bring your ideas to life. Track the things your team is shipping. Trang biểu mẫu / dashboard, bố cục sidebar_dashboard; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "overview"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-010.html",
+    "local_preview": "previews/WEB-DAS-010.webp"
+  },
+  {
+    "id": "WEB-DAS-011",
+    "title": "Field Account",
+    "description": "Field Account: Create your new account. Get started with a more organized workspace. Trang biểu mẫu / dashboard, bố cục split_login; các thành phần: navbar, form, login, cta.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "form",
+      "login",
+      "cta",
+      "sign up",
+      "account",
+      "benefits"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-011.html",
+    "local_preview": "previews/WEB-DAS-011.webp"
+  },
+  {
+    "id": "WEB-DAS-012",
+    "title": "Library Hub",
+    "description": "Library Hub: Find your learning space. Your research and reading dashboard. Trang biểu mẫu / dashboard, bố cục sidebar_analytics; các thành phần: navbar, sidebar, dashboard, chart, statistics, cards.",
+    "category": "dashboard",
+    "tags": [
+      "navbar",
+      "sidebar",
+      "dashboard",
+      "chart",
+      "statistics",
+      "cards",
+      "overview"
+    ],
+    "page_url": "https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-012.html",
+    "local_preview": "previews/WEB-DAS-012.webp"
+  }
+]

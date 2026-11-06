@@ -1,0 +1,1300 @@
+schema_version: 1
+items:
+- id: WEB-ECO-001
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-001.html
+  title: New season, soft essentials
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - grid
+  - cards
+  - product
+  - search
+  - minimal fashion
+  - outfits
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-002
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-002.html
+  title: Objects for slower days
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, search, cards, grid, product'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - search
+  - cards
+  - grid
+  - product
+  - sofas
+  - lighting
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-003
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-003.html
+  title: Better tech. Less noise.
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, sidebar, filter, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - product
+  - search
+  - cta
+  - computers
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-004
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-004.html
+  title: Freshness delivered daily
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - grid
+  - cards
+  - product
+  - search
+  - produce
+  - bakery
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-005
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-005.html
+  title: Move your own way
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, search, cards, grid, product'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - search
+  - cards
+  - grid
+  - product
+  - sneakers
+  - running
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-006
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-006.html
+  title: A little ritual, every day
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, sidebar, filter, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - product
+  - search
+  - cta
+  - serums
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-007
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-007.html
+  title: Tools for bright ideas
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - grid
+  - cards
+  - product
+  - search
+  - notebooks
+  - pens
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-008
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-008.html
+  title: Good mornings begin here
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, search, cards, grid, product'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - search
+  - cards
+  - grid
+  - product
+  - coffee
+  - tea
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-009
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-009.html
+  title: More joy, every paw
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, sidebar, filter, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - product
+  - search
+  - cta
+  - toys
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-010
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-010.html
+  title: Gather around good food
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - grid
+  - cards
+  - product
+  - search
+  - cookware
+  - knives
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-011
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-011.html
+  title: Hear more of your world
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, hero, cta, search, cards, grid, product'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - hero
+  - cta
+  - search
+  - cards
+  - grid
+  - product
+  - headphones
+  - speakers
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-012
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-012.html
+  title: Made to keep going
+  description: 'Mẫu giao diện Web: Thương mại điện tử, navbar, sidebar, filter, grid, cards, product, search'
+  tags:
+  - Thương mại điện tử
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - product
+  - search
+  - cta
+  - training
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-001
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-001.html
+  title: Learn what comes next
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - web design
+  - python
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-002
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-002.html
+  title: Curious minds grow here
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - stem
+  - art
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-003
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-003.html
+  title: Language for real life
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, sidebar, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - sidebar
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - english
+  - japanese
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-004
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-004.html
+  title: Build beautiful things
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - ui basics
+  - typography
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-005
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-005.html
+  title: Make science click
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - physics
+  - chemistry
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-006
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-006.html
+  title: Learn by building
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, sidebar, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - sidebar
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - html & css
+  - javascript
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-007
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-007.html
+  title: Knowledge without borders
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - technology
+  - business
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-008
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-008.html
+  title: Grow mathematical confidence
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - algebra
+  - geometry
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-009
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-009.html
+  title: Career-ready, at your pace
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, sidebar, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - sidebar
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - leadership
+  - writing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-010
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-010.html
+  title: Explore the research world
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - research
+  - methods
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-011
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-011.html
+  title: Every lesson is a new possibility
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, hero, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - hero
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - illustration
+  - photography
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-012
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-012.html
+  title: Knowledge that connects
+  description: 'Mẫu giao diện Web: Giáo dục, navbar, sidebar, course, cards, grid, cta, search'
+  tags:
+  - Giáo dục
+  - navbar
+  - sidebar
+  - course
+  - cards
+  - grid
+  - cta
+  - search
+  - ai literacy
+  - cybersecurity
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-001
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-001.html
+  title: Decisions, made clearer
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, statistics, cta, search, platform'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - statistics
+  - cta
+  - search
+  - platform
+  - solutions
+  - customers
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-002
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-002.html
+  title: Ideas that travel further
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, strategy, identity'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - strategy
+  - identity
+  - digital
+  - campaigns
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-003
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-003.html
+  title: Shipping made simple
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, tracking, fulfillment'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - tracking
+  - fulfillment
+  - returns
+  - pricing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-004
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-004.html
+  title: Build a better tomorrow
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, statistics, cta, search, solar'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - statistics
+  - cta
+  - search
+  - solar
+  - battery
+  - projects
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-005
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-005.html
+  title: Finance without friction
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, payments, reports'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - payments
+  - reports
+  - teams
+  - security
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-006
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-006.html
+  title: Places with purpose
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, projects, approach'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - projects
+  - approach
+  - people
+  - contact
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-007
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-007.html
+  title: Your workspace, connected
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, statistics, cta, search, workspace'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - statistics
+  - cta
+  - search
+  - workspace
+  - automation
+  - security
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-008
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-008.html
+  title: Care designed around you
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, services, specialists'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - services
+  - specialists
+  - locations
+  - resources
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-009
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-009.html
+  title: Build trust into every step
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, audit, training'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - audit
+  - training
+  - monitoring
+  - governance
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-010
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-010.html
+  title: Go beyond expected
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, statistics, cta, search, destinations'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - statistics
+  - cta
+  - search
+  - destinations
+  - experiences
+  - about
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-011
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-011.html
+  title: Move forward with confidence
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, advisory, industries'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - advisory
+  - industries
+  - case studies
+  - team
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-012
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-012.html
+  title: Work better, together
+  description: 'Mẫu giao diện Web: Doanh nghiệp, navbar, hero, cards, cta, search, locations, membership'
+  tags:
+  - Doanh nghiệp
+  - navbar
+  - hero
+  - cards
+  - cta
+  - search
+  - locations
+  - membership
+  - events
+  - community
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-001
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-001.html
+  title: Fresh perspectives on technology
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, technology, ai'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - technology
+  - ai
+  - startups
+  - reviews
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-002
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-002.html
+  title: A world of creative ideas
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, art, culture'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - art
+  - culture
+  - interviews
+  - opinion
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-003
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-003.html
+  title: Business in perspective
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, sidebar, markets'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - sidebar
+  - markets
+  - economy
+  - companies
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-004
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-004.html
+  title: Stories from the outdoors
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, nature, travel'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - nature
+  - travel
+  - people
+  - guides
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-005
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-005.html
+  title: Your city, explained
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, local, food'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - local
+  - food
+  - people
+  - culture
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-006
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-006.html
+  title: Ideas that change how we see
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, sidebar, space'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - sidebar
+  - space
+  - health
+  - earth
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-007
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-007.html
+  title: Spaces that shape us
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, homes, design'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - homes
+  - design
+  - architecture
+  - materials
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-008
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-008.html
+  title: Food and the good life
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, recipes, restaurants'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - recipes
+  - restaurants
+  - lifestyle
+  - coffee
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-009
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-009.html
+  title: Learn, question, discover
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, sidebar, education'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - sidebar
+  - education
+  - research
+  - student life
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-010
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-010.html
+  title: Planet, people and progress
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, climate, energy'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - climate
+  - energy
+  - communities
+  - innovation
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-011
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-011.html
+  title: The game beyond the score
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, football, running'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - football
+  - running
+  - fitness
+  - stories
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-012
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-012.html
+  title: Explore more, travel better
+  description: 'Mẫu giao diện Web: Tin tức / Blog, navbar, article, cards, grid, search, sidebar, places'
+  tags:
+  - Tin tức / Blog
+  - navbar
+  - article
+  - cards
+  - grid
+  - search
+  - sidebar
+  - places
+  - guides
+  - food
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-001
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-001.html
+  title: Find your rhythm
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, features, how it works'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - features
+  - how it works
+  - pricing
+  - stories
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-002
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-002.html
+  title: Make room for what matters
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, search, calendar, reminders, team'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - search
+  - calendar
+  - reminders
+  - team
+  - integrations
+  - landing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-003
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-003.html
+  title: Tiny steps, lasting change
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, habits, progress'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - habits
+  - progress
+  - community
+  - plans
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-004
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-004.html
+  title: The world is calling
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, explore, trips'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - explore
+  - trips
+  - maps
+  - favorites
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-005
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-005.html
+  title: Create at the speed of thought
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, search, editor, templates, collaboration'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - search
+  - editor
+  - templates
+  - collaboration
+  - assets
+  - landing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-006
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-006.html
+  title: Small actions, big impact
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, tracker, insights'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - tracker
+  - insights
+  - actions
+  - reports
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-007
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-007.html
+  title: Every mood has a soundtrack
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, explore, playlists'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - explore
+  - playlists
+  - radio
+  - community
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-008
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-008.html
+  title: A little more room to breathe
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, search, sessions, journal, sleep'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - search
+  - sessions
+  - journal
+  - sleep
+  - guide
+  - landing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-009
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-009.html
+  title: Collect what inspires you
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, notes, sync'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - notes
+  - sync
+  - collections
+  - landing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-010
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-010.html
+  title: Everything delivered, simply
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, how it works, stores'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - how it works
+  - stores
+  - tracking
+  - pricing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-011
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-011.html
+  title: Forms people enjoy completing
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, search, forms, logic, analytics'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - search
+  - forms
+  - logic
+  - analytics
+  - integrations
+  - landing
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-012
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-012.html
+  title: Your work, perfectly in motion
+  description: 'Mẫu giao diện Web: Landing page, navbar, hero, cta, cards, search, boards, timeline'
+  tags:
+  - Landing page
+  - navbar
+  - hero
+  - cta
+  - cards
+  - search
+  - boards
+  - timeline
+  - automation
+  - teams
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-001
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-001.html
+  title: Your work, at a glance
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, overview'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - overview
+  - projects
+  - analytics
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-002
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-002.html
+  title: Welcome back, creator
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, form, login, cta, overview, courses, calendar'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - form
+  - login
+  - cta
+  - overview
+  - courses
+  - calendar
+  - profile
+  - dashboard
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-003
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-003.html
+  title: Every number tells a story
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, overview'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - overview
+  - revenue
+  - audience
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-004
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-004.html
+  title: Secure sign in
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, sign
+    in'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - sign in
+  - sso
+  - security
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-005
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-005.html
+  title: Relationships made visible
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, form, login, cta, overview, contacts, pipeline'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - form
+  - login
+  - cta
+  - overview
+  - contacts
+  - pipeline
+  - tasks
+  - dashboard
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-006
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-006.html
+  title: Join the creative community
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, sign
+    up'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - sign up
+  - features
+  - help
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-007
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-007.html
+  title: Manage daily operations
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, overview'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - overview
+  - orders
+  - products
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-008
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-008.html
+  title: Make great work together
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, form, login, cta, sign in, projects, teams'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - form
+  - login
+  - cta
+  - sign in
+  - projects
+  - teams
+  - help
+  - dashboard
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-009
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-009.html
+  title: Your personal overview
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, overview'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - overview
+  - budgets
+  - spending
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-010
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-010.html
+  title: Bring your ideas to life
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, overview'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - overview
+  - tasks
+  - sprints
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-011
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-011.html
+  title: Create your new account
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, form, login, cta, sign up, account, benefits'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - form
+  - login
+  - cta
+  - sign up
+  - account
+  - benefits
+  - help
+  - dashboard
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-012
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-012.html
+  title: Find your learning space
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, overview'
+  tags:
+  - Biểu mẫu / Dashboard
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - overview
+  - documents
+  - research
+  source: synthetic_gallery_seed
+  created_at: '2026-11-06T06:24:30+00:00'
+  updated_at: '2026-11-06T06:24:30+00:00'
