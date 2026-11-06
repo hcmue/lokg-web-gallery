@@ -4,7 +4,7 @@
  * https://<service>.onrender.com address. NO passwords, tokens or DB URLs here.
  */
 window.LOKG_CONFIG = Object.freeze({
-  API_BASE_URL: "https://REPLACE-WITH-YOUR-RENDER-SERVICE.onrender.com",
+  API_BASE_URL: "https://lokg-ir-web-links.onrender.com",
   PUBLIC_SITE_URL: "https://hcmue.github.io/lokg-web-gallery/",
   RESULT_LIMIT: 12
-});
+})
