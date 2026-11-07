@@ -101,5 +101,5 @@ def test_gallery_files():
     root=Path(__file__).resolve().parents[1]
     html=list((root/'docs'/'pages').glob('*.html'))
     previews=list((root/'docs'/'previews').glob('*.webp'))
-    assert len(html)==len(previews)==72
+    assert len(html)==len(previews)==150
     assert {x.stem for x in html}=={x.stem for x in previews}

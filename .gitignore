@@ -6,3 +6,5 @@ __pycache__/
 .coverage
 runtime_data/
 .DS_Store
+venv/
+.venv/

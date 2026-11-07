@@ -12,7 +12,7 @@ def test_static_page_and_config():
     assert (docs/'config.js').exists()
     assert (docs/'assets'/'app.js').exists()
     assert (docs/'assets'/'styles.css').exists()
-    assert len(list((docs/'pages').glob('*.html')))==72
+    assert len(list((docs/'pages').glob('*.html')))==150
 
 
 def test_cors_and_cross_origin_analytics(tmp_path,monkeypatch):

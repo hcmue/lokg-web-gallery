@@ -12,3 +12,12 @@
 - Không tải lên hoặc phân tích nội dung giao diện từ URL; giáo viên chịu trách nhiệm từ khóa.
 - 72 mẫu là **dữ liệu minh họa**, không phải minh chứng số lượng sinh viên đã dùng hay tác động học tập.
 - Bộ đếm chỉ phản ánh sự kiện trình duyệt; không phải số người học duy nhất. Không lưu IP người dùng vào bảng sự kiện; truy vấn được làm sạch một số dạng định danh phổ biến trước khi lưu.
+
+
+## Kho hoc lieu 150 mau
+
+- 6 nhom x 25 mau, giu nguyen 72 mau goc.
+- 78 mau moi: `docs/pages/WEB-XXX-013.html` den `WEB-XXX-025.html`.
+- Anh xem truoc: `docs/previews/`; metadata: `data/catalog.yaml`.
+- Huong dan su dung: `https://hcmue.github.io/lokg-web-gallery/huong-dan.html`.
+- Khi sua YAML tren GitHub, Render can deploy lai hoac admin nhan tai lai du lieu.

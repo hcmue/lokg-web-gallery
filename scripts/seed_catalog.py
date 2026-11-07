@@ -31,6 +31,8 @@ for line in source.read_text(encoding='utf8').splitlines():
     items.append(it)
 output=root/args.out
 output.parent.mkdir(exist_ok=True,parents=True)
+if output.exists():
+    raise SystemExit("Catalog already exists. Do not overwrite the 150-sample collection with the 72-sample seed.")
 keys=('id','page_url','title','description','tags','source','created_at','updated_at')
 content={'schema_version':1,'items':[{k:it[k] for k in keys} for it in items]}
 output.write_text(yaml.safe_dump(content,allow_unicode=True,sort_keys=False,width=110),encoding='utf-8')

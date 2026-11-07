@@ -216,6 +216,367 @@ items:
   source: synthetic_gallery_seed
   created_at: '2026-11-06T06:24:30+00:00'
   updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-ECO-013
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-013.html
+  title: Everyday pieces, thoughtfully selected
+  description: 'Web UI practice: Thương mại điện tử. Everyday pieces, thoughtfully selected. Layout split; key parts:
+    navbar, hero, cta, cards.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - hero
+  - cta
+  - cards
+  - fashion
+  - clothing
+  category: ecommerce
+  components: &id001
+  - navbar
+  - hero
+  - cta
+  - cards
+  layout: split
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-014
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-014.html
+  title: Find your next favorite
+  description: 'Web UI practice: Thương mại điện tử. Find your next favorite. Layout catalog-side; key parts: navbar,
+    sidebar, filter, grid, cards, search.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  - furniture
+  - filters
+  category: ecommerce
+  components: &id002
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  layout: catalog-side
+  relations: &id003
+  - subject: sidebar
+    predicate: left_of
+    object: grid
+  - subject: filter
+    predicate: inside
+    object: sidebar
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-015
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-015.html
+  title: Discover the perfect setup
+  description: 'Web UI practice: Thương mại điện tử. Discover the perfect setup. Layout catalog-top; key parts: navbar,
+    filter, grid, cards, search.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  - electronics
+  - filters
+  - topbar
+  category: ecommerce
+  components: &id004
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  layout: catalog-top
+  relations: &id005
+  - subject: filter
+    predicate: above
+    object: grid
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-016
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-016.html
+  title: Good design, made tangible
+  description: 'Web UI practice: Thương mại điện tử. Good design, made tangible. Layout detail; key parts: navbar, product,
+    cards, cta.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - product
+  - cards
+  - cta
+  - detail
+  - product-gallery
+  category: ecommerce
+  components: &id006
+  - navbar
+  - product
+  - cards
+  - cta
+  layout: detail
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-017
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-017.html
+  title: Objects worth keeping
+  description: 'Web UI practice: Thương mại điện tử. Objects worth keeping. Layout editorial; key parts: navbar, hero,
+    article, cards, grid.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  - editorial
+  - stories
+  category: ecommerce
+  components: &id007
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  layout: editorial
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-018
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-018.html
+  title: A better daily basket
+  description: 'Web UI practice: Thương mại điện tử. A better daily basket. Layout metrics; key parts: navbar, statistics,
+    chart, cards.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - statistics
+  - chart
+  - cards
+  - market
+  - subscription
+  category: ecommerce
+  components: &id008
+  - navbar
+  - statistics
+  - chart
+  - cards
+  layout: metrics
+  relations: &id009
+  - subject: statistics
+    predicate: above
+    object: chart
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-019
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-019.html
+  title: Design that works for you
+  description: 'Web UI practice: Thương mại điện tử. Design that works for you. Layout form; key parts: navbar, hero,
+    form, cta.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - hero
+  - form
+  - cta
+  - checkout
+  - login
+  category: ecommerce
+  components: &id010
+  - navbar
+  - hero
+  - form
+  - cta
+  layout: form
+  relations: &id011
+  - subject: form
+    predicate: right_of
+    object: hero
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-020
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-020.html
+  title: Find a plan for your routine
+  description: 'Web UI practice: Thương mại điện tử. Find a plan for your routine. Layout pricing; key parts: navbar,
+    pricing, cards, cta.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - pricing
+  - cards
+  - cta
+  - membership
+  category: ecommerce
+  components: &id012
+  - navbar
+  - pricing
+  - cards
+  - cta
+  layout: pricing
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-021
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-021.html
+  title: Every step tells a story
+  description: 'Web UI practice: Thương mại điện tử. Every step tells a story. Layout gallery; key parts: navbar, grid,
+    cards, filter.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - grid
+  - cards
+  - filter
+  - gallery
+  category: ecommerce
+  components: &id013
+  - navbar
+  - grid
+  - cards
+  - filter
+  layout: gallery
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-022
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-022.html
+  title: From discovery to delivery
+  description: 'Web UI practice: Thương mại điện tử. From discovery to delivery. Layout timeline; key parts: navbar,
+    cards.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - cards
+  - ordering
+  - steps
+  - timeline
+  category: ecommerce
+  components: &id014
+  - navbar
+  - cards
+  layout: timeline
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-023
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-023.html
+  title: Shop what fits your space
+  description: 'Web UI practice: Thương mại điện tử. Shop what fits your space. Layout table; key parts: navbar, dashboard,
+    filter.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - dashboard
+  - filter
+  - comparison
+  - table
+  - product
+  category: ecommerce
+  components: &id015
+  - navbar
+  - dashboard
+  - filter
+  layout: table
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-024
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-024.html
+  title: Build your own set
+  description: 'Web UI practice: Thương mại điện tử. Build your own set. Layout article; key parts: navbar, hero, article.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - hero
+  - article
+  - journal
+  category: ecommerce
+  components: &id016
+  - navbar
+  - hero
+  - article
+  layout: article
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-ECO-025
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-ECO-025.html
+  title: The store at a glance
+  description: 'Web UI practice: Thương mại điện tử. The store at a glance. Layout dashboard; key parts: navbar, sidebar,
+    dashboard, chart, statistics, cards.'
+  tags:
+  - Thương mại điện tử
+  - ecommerce
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - seller
+  category: ecommerce
+  components: &id017
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  layout: dashboard
+  relations: &id018
+  - subject: sidebar
+    predicate: left_of
+    object: chart
+  - subject: statistics
+    predicate: above
+    object: chart
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
 - id: WEB-EDU-001
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-001.html
   title: Learn what comes next
@@ -432,6 +793,288 @@ items:
   source: synthetic_gallery_seed
   created_at: '2026-11-06T06:24:30+00:00'
   updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-EDU-013
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-013.html
+  title: Learn something meaningful
+  description: 'Web UI practice: Giáo dục. Learn something meaningful. Layout split; key parts: navbar, hero, cta, cards.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - hero
+  - cta
+  - cards
+  - learning
+  - courses
+  category: education
+  components: *id001
+  layout: split
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-014
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-014.html
+  title: Find a course that fits
+  description: 'Web UI practice: Giáo dục. Find a course that fits. Layout catalog-side; key parts: navbar, sidebar,
+    filter, grid, cards, search.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  - course
+  category: education
+  components: *id002
+  layout: catalog-side
+  relations: *id003
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-015
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-015.html
+  title: Explore pathways at your pace
+  description: 'Web UI practice: Giáo dục. Explore pathways at your pace. Layout catalog-top; key parts: navbar, filter,
+    grid, cards, search.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  - learning-path
+  category: education
+  components: *id004
+  layout: catalog-top
+  relations: *id005
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-016
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-016.html
+  title: One concept at a time
+  description: 'Web UI practice: Giáo dục. One concept at a time. Layout detail; key parts: navbar, product, cards, cta.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - product
+  - cards
+  - cta
+  - lesson
+  - course
+  - detail
+  category: education
+  components: *id006
+  layout: detail
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-017
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-017.html
+  title: Ideas grow through questions
+  description: 'Web UI practice: Giáo dục. Ideas grow through questions. Layout editorial; key parts: navbar, hero, article,
+    cards, grid.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  - journal
+  - blog
+  category: education
+  components: *id007
+  layout: editorial
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-018
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-018.html
+  title: See how far you have come
+  description: 'Web UI practice: Giáo dục. See how far you have come. Layout metrics; key parts: navbar, statistics,
+    chart, cards.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - statistics
+  - chart
+  - cards
+  - student
+  category: education
+  components: *id008
+  layout: metrics
+  relations: *id009
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-019
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-019.html
+  title: Your next step starts here
+  description: 'Web UI practice: Giáo dục. Your next step starts here. Layout form; key parts: navbar, hero, form, cta.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - hero
+  - form
+  - cta
+  - registration
+  - contact
+  category: education
+  components: *id010
+  layout: form
+  relations: *id011
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-020
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-020.html
+  title: Choose your learning experience
+  description: 'Web UI practice: Giáo dục. Choose your learning experience. Layout pricing; key parts: navbar, pricing,
+    cards, cta.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - pricing
+  - cards
+  - cta
+  - course
+  - plans
+  category: education
+  components: *id012
+  layout: pricing
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-021
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-021.html
+  title: Learning by seeing
+  description: 'Web UI practice: Giáo dục. Learning by seeing. Layout gallery; key parts: navbar, grid, cards, filter.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - grid
+  - cards
+  - filter
+  - library
+  - gallery
+  - resources
+  category: education
+  components: *id013
+  layout: gallery
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-022
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-022.html
+  title: A clear path to mastery
+  description: 'Web UI practice: Giáo dục. A clear path to mastery. Layout timeline; key parts: navbar, cards.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - cards
+  - learning-path
+  - timeline
+  - progress
+  category: education
+  components: *id014
+  layout: timeline
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-023
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-023.html
+  title: Plan a better study week
+  description: 'Web UI practice: Giáo dục. Plan a better study week. Layout table; key parts: navbar, dashboard, filter.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - dashboard
+  - filter
+  - schedule
+  - table
+  - calendar
+  category: education
+  components: *id015
+  layout: table
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-024
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-024.html
+  title: Discover the ideas behind it
+  description: 'Web UI practice: Giáo dục. Discover the ideas behind it. Layout article; key parts: navbar, hero, article.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - hero
+  - article
+  - reading
+  - research
+  category: education
+  components: *id016
+  layout: article
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-EDU-025
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-EDU-025.html
+  title: Teaching, organized beautifully
+  description: 'Web UI practice: Giáo dục. Teaching, organized beautifully. Layout dashboard; key parts: navbar, sidebar,
+    dashboard, chart, statistics, cards.'
+  tags:
+  - Giáo dục
+  - education
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - teacher
+  - analytics
+  category: education
+  components: *id017
+  layout: dashboard
+  relations: *id018
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
 - id: WEB-BUS-001
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-001.html
   title: Decisions, made clearer
@@ -648,6 +1291,292 @@ items:
   source: synthetic_gallery_seed
   created_at: '2026-11-06T06:24:30+00:00'
   updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-BUS-013
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-013.html
+  title: Build what comes next
+  description: 'Web UI practice: Doanh nghiệp. Build what comes next. Layout split; key parts: navbar, hero, cta, cards.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - hero
+  - cta
+  - cards
+  - agency
+  - services
+  category: business
+  components: *id001
+  layout: split
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-014
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-014.html
+  title: Solutions for every stage
+  description: 'Web UI practice: Doanh nghiệp. Solutions for every stage. Layout catalog-side; key parts: navbar, sidebar,
+    filter, grid, cards, search.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  - consulting
+  - service-filter
+  category: business
+  components: *id002
+  layout: catalog-side
+  relations: *id003
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-015
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-015.html
+  title: The right expertise in one place
+  description: 'Web UI practice: Doanh nghiệp. The right expertise in one place. Layout catalog-top; key parts: navbar,
+    filter, grid, cards, search.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  - professional
+  category: business
+  components: *id004
+  layout: catalog-top
+  relations: *id005
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-016
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-016.html
+  title: A better way to work together
+  description: 'Web UI practice: Doanh nghiệp. A better way to work together. Layout detail; key parts: navbar, product,
+    cards, cta.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - product
+  - cards
+  - cta
+  - services
+  - detail
+  - case-study
+  category: business
+  components: *id006
+  layout: detail
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-017
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-017.html
+  title: Ideas with measurable impact
+  description: 'Web UI practice: Doanh nghiệp. Ideas with measurable impact. Layout editorial; key parts: navbar, hero,
+    article, cards, grid.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  - corporate
+  - journal
+  - blog
+  category: business
+  components: *id007
+  layout: editorial
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-018
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-018.html
+  title: Performance in focus
+  description: 'Web UI practice: Doanh nghiệp. Performance in focus. Layout metrics; key parts: navbar, statistics, chart,
+    cards.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - statistics
+  - chart
+  - cards
+  - finance
+  category: business
+  components: *id008
+  layout: metrics
+  relations: *id009
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-019
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-019.html
+  title: Start the conversation
+  description: 'Web UI practice: Doanh nghiệp. Start the conversation. Layout form; key parts: navbar, hero, form, cta.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - hero
+  - form
+  - cta
+  - contact
+  - registration
+  category: business
+  components: *id010
+  layout: form
+  relations: *id011
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-020
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-020.html
+  title: Straightforward service plans
+  description: 'Web UI practice: Doanh nghiệp. Straightforward service plans. Layout pricing; key parts: navbar, pricing,
+    cards, cta.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - pricing
+  - cards
+  - cta
+  - plans
+  category: business
+  components: *id012
+  layout: pricing
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-021
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-021.html
+  title: Work that moves ideas forward
+  description: 'Web UI practice: Doanh nghiệp. Work that moves ideas forward. Layout gallery; key parts: navbar, grid,
+    cards, filter.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - grid
+  - cards
+  - filter
+  - portfolio
+  - projects
+  category: business
+  components: *id013
+  layout: gallery
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-022
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-022.html
+  title: Progress is a process
+  description: 'Web UI practice: Doanh nghiệp. Progress is a process. Layout timeline; key parts: navbar, cards.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - cards
+  - process
+  - timeline
+  - steps
+  category: business
+  components: *id014
+  layout: timeline
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-023
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-023.html
+  title: See the complete picture
+  description: 'Web UI practice: Doanh nghiệp. See the complete picture. Layout table; key parts: navbar, dashboard,
+    filter.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - dashboard
+  - filter
+  - corporate
+  - table
+  - comparison
+  category: business
+  components: *id015
+  layout: table
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-024
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-024.html
+  title: Meet the people behind the work
+  description: 'Web UI practice: Doanh nghiệp. Meet the people behind the work. Layout article; key parts: navbar, hero,
+    article.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - hero
+  - article
+  - team
+  - careers
+  category: business
+  components: *id016
+  layout: article
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-BUS-025
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-BUS-025.html
+  title: One view across the business
+  description: 'Web UI practice: Doanh nghiệp. One view across the business. Layout dashboard; key parts: navbar, sidebar,
+    dashboard, chart, statistics, cards.'
+  tags:
+  - Doanh nghiệp
+  - business
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - crm
+  - analytics
+  category: business
+  components: *id017
+  layout: dashboard
+  relations: *id018
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
 - id: WEB-NEW-001
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-001.html
   title: Fresh perspectives on technology
@@ -864,6 +1793,292 @@ items:
   source: synthetic_gallery_seed
   created_at: '2026-11-06T06:24:30+00:00'
   updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-NEW-013
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-013.html
+  title: Stories worth your attention
+  description: 'Web UI practice: Tin tức / Blog. Stories worth your attention. Layout split; key parts: navbar, hero,
+    cta, cards.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - hero
+  - cta
+  - cards
+  - headlines
+  category: news
+  components: *id001
+  layout: split
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-014
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-014.html
+  title: Explore the topics that matter
+  description: 'Web UI practice: Tin tức / Blog. Explore the topics that matter. Layout catalog-side; key parts: navbar,
+    sidebar, filter, grid, cards, search.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  - topics
+  category: news
+  components: *id002
+  layout: catalog-side
+  relations: *id003
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-015
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-015.html
+  title: A clearer view of the day
+  description: 'Web UI practice: Tin tức / Blog. A clearer view of the day. Layout catalog-top; key parts: navbar, filter,
+    grid, cards, search.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  - headlines
+  - top-filter
+  category: news
+  components: *id004
+  layout: catalog-top
+  relations: *id005
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-016
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-016.html
+  title: Inside a remarkable idea
+  description: 'Web UI practice: Tin tức / Blog. Inside a remarkable idea. Layout detail; key parts: navbar, product,
+    cards, cta.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - product
+  - cards
+  - cta
+  - article
+  - detail
+  - reading
+  category: news
+  components: *id006
+  layout: detail
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-017
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-017.html
+  title: The stories behind the stories
+  description: 'Web UI practice: Tin tức / Blog. The stories behind the stories. Layout editorial; key parts: navbar,
+    hero, article, cards, grid.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  - magazine
+  - editorial
+  category: news
+  components: *id007
+  layout: editorial
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-018
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-018.html
+  title: Beyond the headline
+  description: 'Web UI practice: Tin tức / Blog. Beyond the headline. Layout metrics; key parts: navbar, statistics,
+    chart, cards.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - statistics
+  - chart
+  - cards
+  - journalism
+  category: news
+  components: *id008
+  layout: metrics
+  relations: *id009
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-019
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-019.html
+  title: The week in your inbox
+  description: 'Web UI practice: Tin tức / Blog. The week in your inbox. Layout form; key parts: navbar, hero, form,
+    cta.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - hero
+  - form
+  - cta
+  - newsletter
+  - subscription
+  category: news
+  components: *id010
+  layout: form
+  relations: *id011
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-020
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-020.html
+  title: Choose how you read
+  description: 'Web UI practice: Tin tức / Blog. Choose how you read. Layout pricing; key parts: navbar, pricing, cards,
+    cta.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - pricing
+  - cards
+  - cta
+  - subscription
+  - membership
+  category: news
+  components: *id012
+  layout: pricing
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-021
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-021.html
+  title: A collection of perspectives
+  description: 'Web UI practice: Tin tức / Blog. A collection of perspectives. Layout gallery; key parts: navbar, grid,
+    cards, filter.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - grid
+  - cards
+  - filter
+  - photography
+  - gallery
+  category: news
+  components: *id013
+  layout: gallery
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-022
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-022.html
+  title: Understanding the sequence
+  description: 'Web UI practice: Tin tức / Blog. Understanding the sequence. Layout timeline; key parts: navbar, cards.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - cards
+  - timeline
+  - events
+  category: news
+  components: *id014
+  layout: timeline
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-023
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-023.html
+  title: The figures behind the story
+  description: 'Web UI practice: Tin tức / Blog. The figures behind the story. Layout table; key parts: navbar, dashboard,
+    filter.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - dashboard
+  - filter
+  - data
+  - table
+  - report
+  category: news
+  components: *id015
+  layout: table
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-024
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-024.html
+  title: Questions shape discovery
+  description: 'Web UI practice: Tin tức / Blog. Questions shape discovery. Layout article; key parts: navbar, hero,
+    article.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - hero
+  - article
+  - science
+  - research
+  category: news
+  components: *id016
+  layout: article
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-NEW-025
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-NEW-025.html
+  title: Publishing at a glance
+  description: 'Web UI practice: Tin tức / Blog. Publishing at a glance. Layout dashboard; key parts: navbar, sidebar,
+    dashboard, chart, statistics, cards.'
+  tags:
+  - Tin tức / Blog
+  - news
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - editorial
+  - analytics
+  category: news
+  components: *id017
+  layout: dashboard
+  relations: *id018
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
 - id: WEB-LAN-001
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-001.html
   title: Find your rhythm
@@ -1080,6 +2295,288 @@ items:
   source: synthetic_gallery_seed
   created_at: '2026-11-06T06:24:30+00:00'
   updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-LAN-013
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-013.html
+  title: Make ideas move forward
+  description: 'Web UI practice: Landing Page. Make ideas move forward. Layout split; key parts: navbar, hero, cta, cards.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - hero
+  - cta
+  - cards
+  - saas
+  - product
+  category: landing
+  components: *id001
+  layout: split
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-014
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-014.html
+  title: The conference starts here
+  description: 'Web UI practice: Landing Page. The conference starts here. Layout catalog-side; key parts: navbar, sidebar,
+    filter, grid, cards, search.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  - events
+  - program
+  category: landing
+  components: *id002
+  layout: catalog-side
+  relations: *id003
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-015
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-015.html
+  title: Healthy habits, simpler days
+  description: 'Web UI practice: Landing Page. Healthy habits, simpler days. Layout catalog-top; key parts: navbar, filter,
+    grid, cards, search.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  - wellness
+  category: landing
+  components: *id004
+  layout: catalog-top
+  relations: *id005
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-016
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-016.html
+  title: Made for your next big idea
+  description: 'Web UI practice: Landing Page. Made for your next big idea. Layout detail; key parts: navbar, product,
+    cards, cta.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - product
+  - cards
+  - cta
+  - app
+  - detail
+  category: landing
+  components: *id006
+  layout: detail
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-017
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-017.html
+  title: Every cause starts with a story
+  description: 'Web UI practice: Landing Page. Every cause starts with a story. Layout editorial; key parts: navbar,
+    hero, article, cards, grid.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  - nonprofit
+  - stories
+  category: landing
+  components: *id007
+  layout: editorial
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-018
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-018.html
+  title: Numbers you can actually use
+  description: 'Web UI practice: Landing Page. Numbers you can actually use. Layout metrics; key parts: navbar, statistics,
+    chart, cards.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - statistics
+  - chart
+  - cards
+  - analytics
+  - features
+  category: landing
+  components: *id008
+  layout: metrics
+  relations: *id009
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-019
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-019.html
+  title: Get early access today
+  description: 'Web UI practice: Landing Page. Get early access today. Layout form; key parts: navbar, hero, form, cta.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - hero
+  - form
+  - cta
+  - waitlist
+  category: landing
+  components: *id010
+  layout: form
+  relations: *id011
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-020
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-020.html
+  title: Flexible plans for teams
+  description: 'Web UI practice: Landing Page. Flexible plans for teams. Layout pricing; key parts: navbar, pricing,
+    cards, cta.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - pricing
+  - cards
+  - cta
+  - saas
+  - subscription
+  category: landing
+  components: *id012
+  layout: pricing
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-021
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-021.html
+  title: A place worth discovering
+  description: 'Web UI practice: Landing Page. A place worth discovering. Layout gallery; key parts: navbar, grid, cards,
+    filter.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - grid
+  - cards
+  - filter
+  - travel
+  - gallery
+  category: landing
+  components: *id013
+  layout: gallery
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-022
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-022.html
+  title: From idea to launch
+  description: 'Web UI practice: Landing Page. From idea to launch. Layout timeline; key parts: navbar, cards.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - cards
+  - roadmap
+  - timeline
+  - steps
+  category: landing
+  components: *id014
+  layout: timeline
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-023
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-023.html
+  title: Find the right workflow
+  description: 'Web UI practice: Landing Page. Find the right workflow. Layout table; key parts: navbar, dashboard, filter.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - dashboard
+  - filter
+  - comparison
+  - table
+  - features
+  category: landing
+  components: *id015
+  layout: table
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-024
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-024.html
+  title: A better way to learn design
+  description: 'Web UI practice: Landing Page. A better way to learn design. Layout article; key parts: navbar, hero,
+    article.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - hero
+  - article
+  - course
+  category: landing
+  components: *id016
+  layout: article
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-LAN-025
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-LAN-025.html
+  title: Your progress, in one view
+  description: 'Web UI practice: Landing Page. Your progress, in one view. Layout dashboard; key parts: navbar, sidebar,
+    dashboard, chart, statistics, cards.'
+  tags:
+  - Landing Page
+  - landing
+  - navbar
+  - sidebar
+  - dashboard
+  - chart
+  - statistics
+  - cards
+  - saas
+  category: landing
+  components: *id017
+  layout: dashboard
+  relations: *id018
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
 - id: WEB-DAS-001
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-001.html
   title: Your work, at a glance
@@ -1137,8 +2634,7 @@ items:
 - id: WEB-DAS-004
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-004.html
   title: Secure sign in
-  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, sign
-    in'
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, sign in'
   tags:
   - Biểu mẫu / Dashboard
   - navbar
@@ -1174,8 +2670,7 @@ items:
 - id: WEB-DAS-006
   page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-006.html
   title: Join the creative community
-  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, sign
-    up'
+  description: 'Mẫu giao diện Web: Biểu mẫu / Dashboard, navbar, sidebar, dashboard, chart, statistics, cards, sign up'
   tags:
   - Biểu mẫu / Dashboard
   - navbar
@@ -1298,3 +2793,288 @@ items:
   source: synthetic_gallery_seed
   created_at: '2026-11-06T06:24:30+00:00'
   updated_at: '2026-11-06T06:24:30+00:00'
+- id: WEB-DAS-013
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-013.html
+  title: A clear view of performance
+  description: 'Web UI practice: Dashboard / Biểu mẫu. A clear view of performance. Layout split; key parts: navbar,
+    hero, cta, cards.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - hero
+  - cta
+  - cards
+  - analytics
+  - overview
+  category: dashboard
+  components: *id001
+  layout: split
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-014
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-014.html
+  title: Work with every account in one place
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Work with every account in one place. Layout catalog-side; key
+    parts: navbar, sidebar, filter, grid, cards, search.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - sidebar
+  - filter
+  - grid
+  - cards
+  - search
+  - crm
+  category: dashboard
+  components: *id002
+  layout: catalog-side
+  relations: *id003
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-015
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-015.html
+  title: Work planned, work delivered
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Work planned, work delivered. Layout catalog-top; key parts: navbar,
+    filter, grid, cards, search.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - filter
+  - grid
+  - cards
+  - search
+  - project
+  - kanban
+  category: dashboard
+  components: *id004
+  layout: catalog-top
+  relations: *id005
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-016
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-016.html
+  title: Keep inventory under control
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Keep inventory under control. Layout detail; key parts: navbar,
+    product, cards, cta.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - product
+  - cards
+  - cta
+  - inventory
+  - details
+  category: dashboard
+  components: *id006
+  layout: detail
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-017
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-017.html
+  title: Understand every process
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Understand every process. Layout editorial; key parts: navbar,
+    hero, article, cards, grid.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - hero
+  - article
+  - cards
+  - grid
+  - operations
+  - editorial
+  - blog
+  category: dashboard
+  components: *id007
+  layout: editorial
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-018
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-018.html
+  title: The numbers behind decisions
+  description: 'Web UI practice: Dashboard / Biểu mẫu. The numbers behind decisions. Layout metrics; key parts: navbar,
+    statistics, chart, cards.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - statistics
+  - chart
+  - cards
+  - finance
+  category: dashboard
+  components: *id008
+  layout: metrics
+  relations: *id009
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-019
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-019.html
+  title: Set up your workspace
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Set up your workspace. Layout form; key parts: navbar, hero, form,
+    cta.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - hero
+  - form
+  - cta
+  - settings
+  - login
+  category: dashboard
+  components: *id010
+  layout: form
+  relations: *id011
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-020
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-020.html
+  title: Choose a workspace plan
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Choose a workspace plan. Layout pricing; key parts: navbar, pricing,
+    cards, cta.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - pricing
+  - cards
+  - cta
+  - subscription
+  - plans
+  category: dashboard
+  components: *id012
+  layout: pricing
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-021
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-021.html
+  title: Your digital assets organized
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Your digital assets organized. Layout gallery; key parts: navbar,
+    grid, cards, filter.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - grid
+  - cards
+  - filter
+  - assets
+  - gallery
+  category: dashboard
+  components: *id013
+  layout: gallery
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-022
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-022.html
+  title: See every stage clearly
+  description: 'Web UI practice: Dashboard / Biểu mẫu. See every stage clearly. Layout timeline; key parts: navbar, cards.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - cards
+  - project
+  - timeline
+  - workflow
+  category: dashboard
+  components: *id014
+  layout: timeline
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-023
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-023.html
+  title: Keep requests on track
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Keep requests on track. Layout table; key parts: navbar, dashboard,
+    filter.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - filter
+  - support
+  - table
+  category: dashboard
+  components: *id015
+  layout: table
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-024
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-024.html
+  title: Explore the latest insights
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Explore the latest insights. Layout article; key parts: navbar,
+    hero, article.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - hero
+  - article
+  - reports
+  - data
+  category: dashboard
+  components: *id016
+  layout: article
+  relations: []
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
+- id: WEB-DAS-025
+  page_url: https://hcmue.github.io/lokg-web-gallery/pages/WEB-DAS-025.html
+  title: Make progress visible
+  description: 'Web UI practice: Dashboard / Biểu mẫu. Make progress visible. Layout dashboard; key parts: navbar, sidebar,
+    dashboard, chart, statistics, cards.'
+  tags:
+  - Dashboard / Biểu mẫu
+  - dashboard
+  - navbar
+  - sidebar
+  - chart
+  - statistics
+  - cards
+  - team
+  - analytics
+  category: dashboard
+  components: *id017
+  layout: dashboard
+  relations: *id018
+  source: synthetic_gallery_extension_150
+  verified: false
+  created_at: '2026-11-07T00:00:00+00:00'
+  updated_at: '2026-11-07T00:00:00+00:00'
