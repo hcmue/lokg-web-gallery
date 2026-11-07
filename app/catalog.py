@@ -122,8 +122,13 @@ def enrich(items:list[dict]) -> list[dict]:
     for entry in items:
         d=dict(entry)
         d['tags']=parse_keywords(d.get('tags',[]))
-        d['components']=infer_components(d['tags'])
-        d['category']=infer_category(d['tags'])
+        # Keep explicitly annotated components/layout from the teaching catalog.
+        # Existing 72 records without structured annotations still work unchanged.
+        provided=[str(c).strip() for c in (d.get('components') or []) if str(c).strip()]
+        d['components']=sorted(set(infer_components(d['tags']))|set(provided))
+        d['category']=d.get('category') or infer_category(d['tags'])
+        d['layout']=str(d.get('layout') or '')
+        d['relations']=d.get('relations') or []
         d['links']=[]
         cleaned.append(d)
     df=Counter()
@@ -225,10 +230,13 @@ class Catalog:
             return next((x.copy() for x in self._items if x['id']==item_id),None)
 
     def _persist(self,items:list[dict],message:str):
-        # Save the explicit teacher annotations only. Wiki links are derived.
+        # Preserve teacher-supplied structured fields on all catalog CRUD writes.
+        # Without this, adding a single URL would delete existing layout/relations.
         compact=[]
         for d in items:
-            compact.append({k:d[k] for k in ('id','page_url','title','description','tags','source','created_at','updated_at') if k in d})
+            keep=('id','page_url','title','description','tags','category','components',
+                  'layout','relations','source','verified','created_at','updated_at')
+            compact.append({k:d[k] for k in keep if k in d})
         text=yaml.safe_dump({'schema_version':1,'items':compact},allow_unicode=True,
                             sort_keys=False,width=110)
         self._write_raw(text,message)

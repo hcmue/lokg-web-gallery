@@ -32,7 +32,7 @@ COMPONENT_ALIASES={
 RELATION_ALIASES={
 'left_of':['bên trái','phía trái','cột trái','left of','on the left','left'],
 'above':['phía trên','bên trên','top','above','over'],
-'inside':['bên trong','trong khung','inside','within','contains'],
+'inside':['bên trong','trong khung','nằm trong','trong','inside','within','contains'],
 'right_of':['bên phải','phía phải','cột phải','right of','on the right'],
 'below':['phía dưới','bên dưới','below','under'],
 'near':['bên cạnh','gần','near','adjacent'],

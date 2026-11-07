@@ -24,7 +24,7 @@ from .vendor_lokg.vg_multihop import (
     build_okf, entity_idf, make_lookups, link,
     sigma_candidates, sigma_score,
 )
-from .search_aliases import detect, normalize
+from .search_aliases import detect, normalize, COMPONENT_ALIASES, RELATION_ALIASES
 
 
 # Explicit demonstration defaults; not the manuscript's tuned weights.
@@ -74,6 +74,11 @@ def record_scene(record: dict) -> dict:
             if v:objects.add(v)
         if subject and predicate and target:
             attrs.add('predicate__' + safe_token(predicate))
+            # The upstream OKF index only reads object/attribute incidences,
+            # not sg['rels']. Reify each *teacher-verified* directed relation
+            # as a distinct attribute concept; do not claim HTML vision parsing.
+            attrs.add('relation__' + safe_token(subject) + '__' + safe_token(predicate)
+                      + '__' + safe_token(target))
     # The upstream build_okf expects a list of objects with attribute sets.
     objlist=[{'oid':j+1,'name':value,'attrs':set()} for j,value in enumerate(sorted(objects))]
     if attrs:
@@ -82,6 +87,38 @@ def record_scene(record: dict) -> dict:
     if not objlist:
         objlist=[{'oid':1,'name':'web_page','attrs':set()}]
     return {'objects':objlist, 'rels':[]}
+
+
+def parse_explicit_relations(query: str) -> set[tuple[str,str,str]]:
+    """Recognize short expressions 'sidebar ben trai grid', not arbitrary VLM spatial facts.
+
+    Only clear subject <relation> object order is accepted.  A relation tag
+    is indexed only when a teacher actually annotated it in the YAML record.
+    """
+    q=normalize(query)
+    entities=[]
+    relations=[]
+    for name,aliases in COMPONENT_ALIASES.items():
+        for term in aliases:
+            term=normalize(term)
+            if not term:continue
+            for match in re.finditer(r'(?<![a-z0-9])'+re.escape(term)+r'(?![a-z0-9])',q):
+                entities.append((match.start(),match.end(),name))
+    for name,aliases in RELATION_ALIASES.items():
+        for term in aliases:
+            term=normalize(term)
+            if not term:continue
+            for match in re.finditer(r'(?<![a-z0-9])'+re.escape(term)+r'(?![a-z0-9])',q):
+                relations.append((match.start(),match.end(),name))
+    result=set()
+    for start,end,predicate in relations:
+        before=[e for e in entities if e[1]<=start and start-e[1]<=32]
+        after=[e for e in entities if e[0]>=end and e[0]-end<=32]
+        if before and after:
+            left=max(before,key=lambda e:e[1])
+            right=min(after,key=lambda e:e[0])
+            if left[2]!=right[2]:result.add((left[2],predicate,right[2]))
+    return result
 
 
 class LOKGRetriever:
@@ -132,6 +169,10 @@ class LOKGRetriever:
         for c in cats:qc.add('attr:category__'+safe_token(c))
         for c in comps:qc.add('obj:'+safe_token(c))
         for p in preds:qc.add('attr:predicate__'+safe_token(p))
+        for subject,predicate,obj in parse_explicit_relations(query):
+            concept='attr:relation__'+safe_token(subject)+'__'+safe_token(predicate)+'__'+safe_token(obj)
+            if concept in self.concept2img:
+                qc.add(concept)
         # Match teacher-entered tags as graph concepts. This is explicit textual
         # metadata, not automatic visual/spatial reasoning from the URL.
         normalized=' '+normalize(query)+' '
@@ -186,4 +227,4 @@ class LOKGRetriever:
                 'parameters':{'entry_n':ENTRY_N,'depth':DEPTH,'budget':BUDGET,
                               'per_entity_cap':PER_ENTITY_CAP,'hub_df_frac':HUB_DF_FRAC,
                               'weights':{'embedding':ALPHA_EMBED,'entity_text':BETA_TEXT,'graph_proximity':GAMMA_GRAPH}},
-                'note':'Teacher-entered URL/keywords only. Tags form concept links; no spatial relations or visual content are extracted.'}
+                'note':'Teacher-entered URL, keywords and optional annotated layout/relations; no spatial relations are extracted automatically from HTML or images.'}
